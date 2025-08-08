@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="1200px" height="1600px" font-size="16px">
+  <style>
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .link { fill: #58a6ff; }
+    .heading { fill: #ffffff; font-weight: bold; }
+    .ascii { fill: #c9d1d9; white-space: pre; }
+    .section { fill: #8b949e; }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117" rx="15"/>
+
+  <!-- ASCII  -->
+  <text x="20" y="40" class="ascii">
+    <tspan x="20" dy="1.2em"> ******************+*++++**+*+=-:-=#***=-=+*+*****+****************** </tspan>
+    <tspan x="20" dy="1.2em"> ***********************+++++==@@@@@@@@@@#-+*+***+******************* </tspan>
+    <tspan x="20" dy="1.2em"> **********************+**+*+-@@@@=:    -@@+***+++++***************** </tspan>
+    <tspan x="20" dy="1.2em"> ***************************+*@@=:..    .:%=*+*********************** </tspan>
+    <tspan x="20" dy="1.2em"> ***************************+#@#+*@@@@@*@@@+*****++****************** </tspan>
+    <tspan x="20" dy="1.2em"> ***************************+=.+*.    . -=*************************** </tspan>
+    <tspan x="20" dy="1.2em"> *****************************:*@*=.+%@@@. #+************************ </tspan>
+    <tspan x="20" dy="1.2em"> *****************************+@@@@+@   =@%@+************************ </tspan>
+    <tspan x="20" dy="1.2em"> *****************************=%@%@@- ###=@++************************ </tspan>
+    <tspan x="20" dy="1.2em"> **************************#%%=@*#@%@@@#%@@=************************* </tspan>
+    <tspan x="20" dy="1.2em"> ***********************#@@@-   @**%@@@@@#++#+*********************** </tspan>
+    <tspan x="20" dy="1.2em"> ********************#%@@.  +=#@ -#%%%*@*%*.@%@@##******************* </tspan>
+    <tspan x="20" dy="1.2em"> *******************#%: .-===-+%@@ -::=%.-:%@=::#@###**************** </tspan>
+    <tspan x="20" dy="1.2em"> #*************#****%:-=====-#.- :%@+=:#=*@+=-=::=%#***************** </tspan>
+    <tspan x="20" dy="1.2em"> ******************%++++=+==+*-=*-::+@@@%==-==*+*:-%#**************** </tspan>
+    <tspan x="20" dy="1.2em"> *****#*#**********%=***=--=+*@=%===--+%@-==++++@=**#**************** </tspan>
+    <tspan x="20" dy="1.2em"> **********#*******%=****@@*##@@=#=++=+*=**=+*+@===*@#*************** </tspan>
+    <tspan x="20" dy="1.2em"> #***#************##=**+==+*+:.@=%=====@-**++*#===-=@###*#*********** </tspan>
+    <tspan x="20" dy="1.2em"> ****##*#**********#*+*++=- *%+=*#=+++=%+-#+=*#-=+==*%####*********** </tspan>
+    <tspan x="20" dy="1.2em"> *#******#*****#*#*#%++*+=#@ .:*+@#+***##:*%#*#**+=+-@#**##********** </tspan>
+    <tspan x="20" dy="1.2em"> ***###******#******#%+**+++#=:::=%@@@@#%*##@@+==++###%*#*#********** </tspan>
+    <tspan x="20" dy="1.2em"> #******#####*****####%#*.@-#:=+==-    + ::= .:=+===-+%#****##*##**** </tspan>
+    <tspan x="20" dy="1.2em"> #**#********##*******##@+*-#+=+:=+@  %@+##+==+++==+--%####*#**#*#*** </tspan>
+    <tspan x="20" dy="1.2em">                                     :+=                                </tspan>
+  </text>
+
+  <!-- My Bio -->
+  <text x="40" y="600">
+    <tspan class="heading" x="40" dy="1.4em">Hello, I'm Benedict Eko 👋</tspan>
+    <tspan class="section" x="40" dy="1.5em">💻 Aspiring Cybersecurity Analyst | 🛡️ Security Enthusiast | Fluent in Python🐍 &amp; SQL</tspan>
+
+    <tspan class="key" x="40" dy="2em">About Me:</tspan>
+    <tspan class="value" x="300" dy="0em">M.S. Computer Science (in progress) - University of Texas at Dallas</tspan>
+    <tspan class="value" x="300" dy="1.2em">B.S. Cybersecurity and Information Assurance - Western Governors University </tspan>
+    <tspan class="value" x="300" dy="1.2em">A.A.S. Information Systems Cybersecurity (3.85 GPA - Magna Cum Laude) - Collin College </tspan>
+    <tspan class="value" x="300" dy="1.2em">Executive Tech Support Specialist @ Capital One</tspan>
+
+    <tspan class="key" x="40" dy="2em">Certifications:</tspan>
+    <tspan class="value" x="300" dy="0em">PenTest+, Security+, Network+, A+, SSCP, ITIL 4, Six Sigma YB/WB, Jamf CA, Azure VDS</tspan>
+
+    <tspan class="key" x="40" dy="2em">Languages:</tspan>
+    <tspan class="value" x="300" dy="0em">Python, SQL, Bash, PowerShell</tspan>
+
+    <tspan class="key" x="40" dy="2em">Tools:</tspan>
+    <tspan class="value" x="300" dy="0em">Splunk, Wazuh, pfSense, Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Hydra</tspan>
+
+    <tspan class="key" x="40" dy="2em">Home Lab:</tspan>
+    <tspan class="value" x="300" dy="0em">SIEM (Splunk &amp; Wazuh), AD Domain, pfSense, DNS, GPO, log analysis, threat hunting</tspan>
+    <tspan class="value" x="300" dy="1.2em">Simulated brute-force attacks, failed logons, packet filtering &amp; alerting</tspan>
+
+
+    <tspan class="key" x="40" dy="1.5em">LinkedIn:</tspan>
+    <tspan class="link" x="300" dy="0em">www.linkedin.com/in/benedict-eko</tspan>
+
+  </text>
+</svg>
