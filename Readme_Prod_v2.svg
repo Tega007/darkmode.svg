@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="1300px" height="1200px" font-size="18px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="1350px" height="1200px" font-size="20px">
   <style>
     .key { fill: #ffa657; }
     .value { fill: #a5d6ff; }
@@ -10,7 +10,7 @@
   </style>
   <rect width="100%" height="100%" fill="#0d1117" rx="15"/>
 
-  <!-- ASCII / Height previously 1600 and font 16 --> 
+  <!-- ASCII / Height previously 1600 and font 16 | width- 1300, font 18--> 
   <text x="20" y="40" class="ascii">
     <tspan x="20" dy="1.2em"> ******************+*++++**+*+=-:-=#***=-=+*+*****+****************** </tspan>
     <tspan x="20" dy="1.2em"> ***********************+++++==@@@@@@@@@@#-+*+***+******************* </tspan>
